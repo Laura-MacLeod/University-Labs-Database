@@ -1,4 +1,4 @@
-# University-Labs-Database
+# University-Labs-Database-Model
 
 Tables and fake data relating to physics practical labs.
 Final project for 'Data and SQL' course with Coding For Girls.
